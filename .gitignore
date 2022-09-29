@@ -1,0 +1,10 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+# Then fucked with by TheTimesweeper c:
+
+.vs/
+bin/
+obj/
+#*.csproj we're finally not retarded anymore
+#and by we i mean me it was completely me
